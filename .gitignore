@@ -2,4 +2,5 @@
 .env
 .envexample
 __pycache__/
-requirements_backup.txt    
+requirements_backup.txt
+.github/    
