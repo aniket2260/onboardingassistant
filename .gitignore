@@ -1,2 +1,5 @@
 .DS_Store
 .env
+.envexample
+__pycache__/
+requirements_backup.txt    
